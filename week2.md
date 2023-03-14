@@ -21,7 +21,22 @@ Imgaer를 다운받으면 해당 화면이 실핻된다.
 - 사진
 저장소에 USIM 카드를 선택한다.  
 ![image](https://user-images.githubusercontent.com/108729047/224992461-d7d00376-737f-44ff-82d1-f5fc89463a18.png)  
-모든 데이터가 사라진다는 문구가 뜨므로, 필요한 데이터가 있는 USIM카드는 사용하면 안된다.  
+저장소를 선택하면 오른쪽 하단에 톱니바퀴가 생기며, 세부설정을 할 수 있다.
+![image](https://user-images.githubusercontent.com/108729047/224993646-be23010d-be6d-4fdd-9efc-800d39aba34c.png)  
+
+세부 설정을 하는 이유는 노트북에 와이파이로 연결하여 모니터와 키보드를 따로 설치하지 않고 사용하기 위해서이다.  
+호스트이름은 min-raspi4로 설정하였다.  
+![image](https://user-images.githubusercontent.com/108729047/224994115-19d0e17b-12e4-4c20-ac1c-664b1ba138bd.png)  
+사용자 이름은 호스트이름과 동일하게 해두면 사용하기 편하다.  
+사용자 이름을 설정하지 않으면 자동으로 ID : pi, PW : raspberrypi로 설정된다.  
+![image](https://user-images.githubusercontent.com/108729047/224995075-50be4e75-1af9-4915-83da-8497419ba67e.png)  
+무선 LAN은 자주 사용하는 와이파이 환경으로 설정하면 좋지만, 환경이 자주 바뀌는 경우 휴대폰 셀룰러로 해두면 좋다.  
+![image](https://user-images.githubusercontent.com/108729047/224995241-61d51865-bbf0-4aa4-866b-3b01143680eb.png)  
+사용 국가가 한국이기 때문에
+![image](https://user-images.githubusercontent.com/108729047/224995991-2e4c1654-d799-430c-9d21-23270c4e3618.png)  
+해당 사진처럼 설정하면 시간대나 키보드가 편하게 세팅된다.  
+
+이후 쓰기 버튼을 누르면 모든 데이터가 사라진다는 문구가 뜨므로, 필요한 데이터가 있는 USIM카드는 사용하면 안된다.  
 ![image](https://user-images.githubusercontent.com/108729047/224992562-545d7c6b-1345-45f3-b28e-603068f6cdf2.png)  
 
 주의사항을 읽고 확인하면 사진처럼 USIM카드에 라즈베리 OS가 설치된다.  
