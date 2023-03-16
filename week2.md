@@ -44,6 +44,10 @@ Imgaer를 다운받으면 해당 화면이 실핻된다.
 
 
 
-![image](https://user-images.githubusercontent.com/108729047/225524198-97777934-62b5-4ec7-bb25-f3f97b3fdd59.png)
+![image](https://user-images.githubusercontent.com/108729047/225524198-97777934-62b5-4ec7-bb25-f3f97b3fdd59.png)  
+![image](https://user-images.githubusercontent.com/108729047/225525709-6d4c5fe2-dca4-456c-9434-6040d49c2dbf.png)  
+![image](https://user-images.githubusercontent.com/108729047/225525759-2eb06875-9a2a-43bf-9a4c-f38e414371c8.png)  
+
+
 
 
