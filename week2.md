@@ -40,5 +40,10 @@ Imgaer를 다운받으면 해당 화면이 실핻된다.
 ![image](https://user-images.githubusercontent.com/108729047/224992562-545d7c6b-1345-45f3-b28e-603068f6cdf2.png)  
 
 주의사항을 읽고 확인하면 사진처럼 USIM카드에 라즈베리 OS가 설치된다.  
-![image](https://user-images.githubusercontent.com/108729047/224992803-78f353c8-3113-42bc-a1dd-f6139f4a5d9c.png)  
+![image](https://user-images.githubusercontent.com/108729047/224992803-78f353c8-3113-42bc-a1dd-f6139f4a5d9c.png) 
+
+
+
+![image](https://user-images.githubusercontent.com/108729047/225524198-97777934-62b5-4ec7-bb25-f3f97b3fdd59.png)
+
 
